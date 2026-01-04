@@ -9,3 +9,9 @@ interested in product thinking, ux and early-stage startups
 
 based in kazan, russia.
 open to collaborations and product-driven projects 🤝
+
+📱 [Telegram](https://example.com)
+💼 LinkedIn
+🐦 Twitter / X
+🚀 Product Hunt
+🌱 Peerlist
