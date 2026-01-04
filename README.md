@@ -1,6 +1,6 @@
 ## hi there 👋
 
-full-stack developer focused on building clear and user-friendly interfaces 
+i`m dmitry y.o full-stack developer focused on building clear and user-friendly interfaces 
 
 currently working on cortexneo — an early-stage medtech project exploring ai-based healthcare solutions 
 
