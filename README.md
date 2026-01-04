@@ -10,6 +10,8 @@ interested in product thinking, ux, and early-stage startups.
 based in kazan, russia.  
 open to collaborations and product-driven projects 🤝
 
+my project in [twitter/x](https://x.com/cortexneomt)
+
 📱 [Telegram](https://example.com)
 💼 [LinkedIn](https://www.linkedin.com/in/dmtrydev)
 🐦 [Twitter / X](https://x.com/dmtrydev)
