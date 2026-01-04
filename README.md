@@ -11,7 +11,5 @@ based in kazan, russia.
 open to collaborations and product-driven projects 🤝
 
 📱 [Telegram](https://example.com)
-💼 LinkedIn
-🐦 Twitter / X
-🚀 Product Hunt
-🌱 Peerlist
+💼 [LinkedIn](https://www.linkedin.com/in/dmtrydev)
+🐦 [Twitter / X](https://x.com/dmtrydev)
