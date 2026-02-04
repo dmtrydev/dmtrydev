@@ -1,14 +1,9 @@
 ## hi there 👋
 
-i’m dmitry, a full-stack developer focused on building clear and user-friendly interfaces.
-
-currently working on cortexneo — an early-stage medtech project exploring ai-based healthcare solutions.
-
-i enjoy turning complex ideas into simple and understandable digital products.  
-interested in product thinking, ux, and early-stage startups.
-
-based in kazan, russia.  
-open to collaborations and product-driven projects 🤝
+Full-stack developer: building bridges between complex ideas and simple products 🌉
+Creating cortexneo — an AI medtech project changing the face of medicine 🩺
+Obsessed with product thinking and human-centered UX ✨
+Open to collaborations on product-driven projects 🤝
 
 my project in [twitter/x](https://x.com/cortexneomt)
 
