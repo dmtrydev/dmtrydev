@@ -1,4 +1,4 @@
-## hi there 👋
+## Hi there 👋
 
 Full-stack developer: building bridges between complex ideas and simple products 🌉
 Creating cortexneo — an AI medtech project changing the face of medicine 🩺
