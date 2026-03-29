@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-Full-stack developer: building bridges between complex ideas and simple products 🌉
-Creating cortexneo — an AI medtech project changing the face of medicine 🩺
-Obsessed with product thinking and human-centered UX ✨
-Open to collaborations on product-driven projects 🤝
+Building robust AI infrastructure for predictive stroke prevention. My focus is on integrating complex healthcare data into seamless clinical workflows. We are replacing legacy hospital systems with transparent artificial intelligence that doctors actually trust.
 
-my project in [twitter/x](https://x.com/cortexneomt)
+My project in [twitter/x](https://x.com/cortexneomt)
 
 📱 [Telegram](https://example.com)
 💼 [LinkedIn](https://www.linkedin.com/in/dmtrydev)
